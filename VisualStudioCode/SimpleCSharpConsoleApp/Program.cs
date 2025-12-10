@@ -1,6 +1,6 @@
 ﻿class Program
 {
-    static void Main()
+    static void Main()//2 commit
     {
         var numbers = new[] { 1, 2, 3, 4, 5 };
         var sum = numbers.Sum();
